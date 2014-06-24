@@ -46,12 +46,12 @@ return array(
     'navigation' => array(
         'control' => array(
             array(
-                'label' => 'Статьи',
-                'route' => 'ctrl-articles',
-            ),
-            array(
                 'label' => 'Авторы',
                 'route' => 'ctrl-authors',
+            ),
+            array(
+                'label' => 'Статьи',
+                'route' => 'ctrl-articles',
             ),
         )
     )
